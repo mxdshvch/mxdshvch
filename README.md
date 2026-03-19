@@ -2,6 +2,10 @@
 
 ### Fullstack Developer • API Integrations • Web Applications
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;CRM+%26+API+Integrations;JavaScript+%7C+React+%7C+Python+%7C+PHP&center=true&width=700&height=50">
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -20,6 +24,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
@@ -32,37 +37,6 @@
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mxdshvch&show_icons=true&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=mxdshvch&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxdshvch&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### [roistat_oauth2.0](https://github.com/mxdshvch/roistat_oauth2.0)
-OAuth integration project for working with authentication flows and external services.  
-**Stack:** PHP, API, Integrations
-
-### [roistat_long-term-token](https://github.com/mxdshvch/roistat_long-term-token)
-Project for working with long-lived access tokens and service integration logic.  
-**Stack:** PHP, API
-
-### [laravel](https://github.com/mxdshvch/laravel)
-Backend development experiments and application structure based on Laravel.  
-**Stack:** PHP, Laravel
-
-> Later you can replace these with stronger production-ready projects.
 
 ---
 
