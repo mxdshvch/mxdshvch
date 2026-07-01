@@ -1,68 +1,103 @@
-# 👋 Hi, I'm Maksim Dashkevich
+[![Hello](https://readme-typing-svg.demolab.com/?lines=Hello%2C+World%21;Welcome+to+my+profile;&font=JetBrains+Mono&weight=600&size=42&duration=2200&pause=1200&color=58A6FF&center=true&width=900&height=78&vCenter=true&repeat=true&background=161B22&borderRadius=0&multiline=false)](https://git.io/typing-svg)
 
-### Fullstack Developer • API Integrations • Web Applications
+# Maksim Dashkevich
+
+### Fullstack Developer · API Integrations · Web Applications · AI
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Django+%7C+FastAPI+%7C+PHP+%7C+Laravel;CRM+%26+Third-party+API+Integrations;WhatsApp+%26+Telegram+Automation;AI-assisted+Development&font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&width=900&height=52&vCenter=true&repeat=true&background=161B22&borderRadius=0&multiline=false)](https://git.io/typing-svg)
+
+---
+
+## About Me
+
+- Integration Developer at **Roistat** — CRM, CMS, widgets, and external APIs
+- Fullstack experience from UI to backend logic and databases
+- Building production-ready apps: Django platforms, FastAPI bots, PHP portals
+- Daily use of **AI-assisted development** — Cursor, Claude, Gemini, GPT
+
+---
+
+## Tech Stack
+
+### Frontend
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;CRM+%26+API+Integrations;JavaScript+%7C+React+%7C+Python+%7C+PHP&center=true&width=700&height=50">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap&theme=dark&perline=4" alt="Frontend" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel&theme=dark&perline=5" alt="Backend" />
+</p>
+
+### Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,figma&theme=dark&perline=5" alt="Database and Tools" />
+</p>
+
+### AI Tools
+
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=cursor,claudeai,googlegemini,chatgpt&perline=4" alt="AI Tools" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Featured Projects
 
-- 💼 Currently working as **Integration Developer at Roistat**
-- 🔗 I work with **CRM, CMS, widgets and third-party APIs**
-- 🛠 I have commercial experience in **fullstack development**
-- ⚡ I can build products from interface to backend logic
-- 🤖 Interested in AI tools and modern web technologies
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator)
+| Project | Stack | Description |
+| --- | --- | --- |
+| [**Sport-Compex-Django_V2**](https://github.com/mxdshvch/Sport-Compex-Django_V2) | Django · SQLite/PostgreSQL | Fitness center platform with custom admin panel, schedule, and memberships |
+| [**Whatsapp-AI-Bot**](https://github.com/mxdshvch/Whatsapp-AI-Bot) | FastAPI · OpenRouter · Wappi | WhatsApp AI sales chatbot with admin panel and scheduled outreach |
+| [**Test-Drive-Portal**](https://github.com/mxdshvch/Test-Drive-Portal) | PHP · MySQL · Bootstrap | Premium car test-drive booking portal with admin workflow |
+| [**Sport-Compex-Django_V1**](https://github.com/mxdshvch/Sport-Compex-Django_V1) | Django | First version of the sport complex web platform |
+| [**Cutting-Fruit-Game-Yandex-SDK**](https://github.com/mxdshvch/Cutting-Fruit-Game-Yandex-SDK) | JavaScript · Yandex SDK | Browser mini-game integrated with Yandex Games SDK |
 
 ---
 
-## 💼 Experience Highlights
+## Experience
 
-- **Roistat** — client integrations, CRM/CMS connections, external APIs
-- **Avatell** — fullstack development, frontend + backend + databases
-- **Technical Support Experience** — system thinking, diagnostics, infrastructure basics
+- **Roistat** — client integrations, CRM/CMS connections, external APIs, production support workflows
+- **Avatell** — fullstack development: frontend, backend, and databases
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Saint Petersburg State Technological Institute** — Advertising and Public Relations in Media Space
 - **Tyumen College of Construction Industry and Urban Economy** — Web and Multimedia Application Development
 
 ---
 
-## 📫 Contact
+## GitHub Stats
 
-- Email: **maksimdashkevich.inc@gmail.com**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mxdshvch&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxdshvch&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxdshvch&theme=tokyonight&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
 
 ---
 
-## ⚡ A Few Facts About Me
+## Contact
 
-- I adapt quickly to new tools and technologies
-- I like building practical solutions, not just prototypes
-- I’m focused on growth, clean implementation and real product value
+- Email: **maksimdashkevich.inc@gmail.com**
+- GitHub: **[@mxdshvch](https://github.com/mxdshvch)**
+
+---
+
+## A Few Facts About Me
+
+- I pick up new stacks quickly and enjoy unfamiliar technical challenges
+- I care about code that works in production, not just on a demo
+- I like practical automation — bots, integrations, and internal tools
+- Always learning and aiming to deliver measurable value to the project
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:21262d&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58A6FF&animation=twinkling" alt="Footer" />
+</p>
